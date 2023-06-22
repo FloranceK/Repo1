@@ -38,7 +38,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>com.mavenproject1.example.ExampleInterface</mainClass>
+							<mainClass>com.example.fileread.ExcelReadMain</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
