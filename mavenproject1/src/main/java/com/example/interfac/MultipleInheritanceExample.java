@@ -1,10 +1,10 @@
 package com.example.interfac;
 
-public class MultipleInheritanceExample {
-	public void print() {
+public class MultipleInheritanceExample implements Printable, Showable{
+	 public void print() {
 		System.out.println("Hello");
 	}
-	public void show() {
+	 public void show() {
 		System.out.println("Welcome");
 	}
 	public static void main(String[] args) {

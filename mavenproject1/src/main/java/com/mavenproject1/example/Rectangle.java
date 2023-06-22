@@ -5,4 +5,14 @@ public class Rectangle implements Drawable{
 		System.out.println("drawing rectangle");
 	}
 
+	public void ftyyf(int side) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void area(int side) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
